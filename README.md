@@ -1,1 +1,1 @@
-# Rect-Native-Webapp
+# Rect-Native-Starter-App
